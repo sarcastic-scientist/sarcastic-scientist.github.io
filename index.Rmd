@@ -13,6 +13,5 @@ links:
 output:
   postcards::jolla
 ---
-## About Me
 
-I am an archaeological chemist investigating agricultural strategies and the environmental changes in selected Phoenician archaeological sites of Sardinia and Portugal through stable isotope analysis (C, N, O, Sr) of zoo-osteological materials (bone and teeth) and archaeobotanical remains (seeds, fruits, charcoal, and pollen).
+I am an archaeological chemist investigating agricultural strategies and the environmental changes in Phoenician archaeological sites of Sardinia and Portugal through stable isotope analysis of faunal bones and macro-botanical remains. 
