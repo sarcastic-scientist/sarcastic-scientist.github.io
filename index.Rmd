@@ -7,11 +7,14 @@ links:
   - label: Email
     url: "mailto:roshan_paladugu.eva.mpg.de"
   - label: Current Project
-    url: "https://dairycultures.org/"
+    url: "https://www.eva.mpg.de/genetics/index/"
   - label: ORCiD
     url: "https://orcid.org/my-orcid?orcid=0000-0003-4954-6752"
 output:
   postcards::jolla
 ---
 
-I am an archaeological chemist investigating agricultural strategies and the environmental changes in Phoenician archaeological sites of Sardinia and Portugal through stable isotope analysis of faunal bones and macro-botanical remains. 
+I am a postdoctoral fellow at the Max Planck Institute for Evolutionary Anthropology (Leipzig, Germany). 
+My research mainly focuses on reconstructing human past through the lens of fauna using biomolecular techniques.
+Specialize in stable isotopes, vibrational spectrocopy, zooarchaeology through mass spectrometry (ZooMS), and paleoproteomics.
+*I also dabble in R programming.*
